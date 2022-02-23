@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Common interest of king &amp; kingdom in this confus'd conjuncture, truly stated, and to consist in the speedy calling of a free Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34135</idno>
+            <idno type="STC">Wing C5569</idno>
+            <idno type="STC">ESTC R20729</idno>
+            <idno type="EEBO-CITATION">12259417</idno>
+            <idno type="OCLC">ocm 12259417</idno>
+            <idno type="VID">57782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 177:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Common interest of king &amp; kingdom in this confus'd conjuncture, truly stated, and to consist in the speedy calling of a free Parliament</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>England and Wales. --  Parliament.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:57782:1"/>
+            <pb n="1" facs="tcp:57782:1"/>
+            <head>The Common Intereſt OF KING &amp; Kingdom, In this Confus'd Conjuncture, Truly Stated: And to conſiſt in the Speedy Calling of <hi>A Free Parliament.</hi>
+            </head>
+            <p>IT is a frequent Obſervation upon Polemical Debates, whether they be in the <hi>Philoſophical</hi> Speculations of the <hi>Schools,</hi> or what's al<g ref="char:EOLhyphen"/>moſt the ſame, in the <hi>Scholaſtick</hi> Diſputes among the <hi>School</hi>-Di<g ref="char:EOLhyphen"/>vines; <hi>That when the Diſputants come to underſtand one another, they are ſoon agreed.</hi> This, tho' but a Theorem among the <hi>Scholars,</hi> may paſs for a good Maxim among Politicians too, and in this jun<g ref="char:EOLhyphen"/>cture very applicable to our preſent Perplexities, and the Differences and <hi>Diſagreements</hi> that the State lies under; it has been <hi>Agreed</hi> on all hands, that a <hi>Parliament</hi> can only Compoſe the <hi>Diſtractions</hi> of the <hi>People;</hi> and yet ſome <hi>People</hi> ſeem as much <hi>Diſtracted</hi> at the Appre<g ref="char:EOLhyphen"/>henſion of this <hi>Parliament,</hi> and perhaps for that reaſon have influenc'd the <hi>King</hi> ſo long from Calling Any: This certainly was No kindneſs to the Crown, to reduce it to thoſe Extremities, which with more Honour to it ſelf, and Safety to them, it could have granted before: For as <hi>Neceſſity,</hi> in Matters of <hi>Right,</hi> is ſaid to have <hi>no Law,</hi> ſo in re<g ref="char:EOLhyphen"/>ſpect of <hi>Favours</hi> it will have no <hi>Thanks</hi> too. And this I urge only as an Error that has been obſervable in our late Councils, which I am
+<pb n="2" facs="tcp:57782:2"/> perſwaded the Inclinations of the King would have otherwiſe rec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>ty'd, and for which the Unhappy Adviſers will hardly have reaſon to <hi>thank</hi> themſelves.</p>
+            <p>On the other hand, the Declaration of the Prince of <hi>Orange</hi> has no other Pretence, but the Calling of this Parliament; which (upon the Faith of a King, that ought to be eſteem'd Inviolate) has been <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the People, ſhall be Call'd; and the difference all the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>le conſiſting only in this, <hi>That His Majeſty would willingly <hi>Call</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e aſſoon as the Prince with his Forces was retir'd out of</hi> England, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut this Prince was unlikely to leave this</hi> England, <hi>with his Forces, till this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arliament was <hi>Call'd.</hi>
+               </hi>
+            </p>
+            <p>I do with all the regard and tenderneſs to the <hi>Crown,</hi> preſume to offer, That a Speedy Parliament, in ſpight of theſe Pretenſions of the Prince, (which I hope are not to attempt it) is the only Expedient to Preſerve it's juſt Rights, and to pacifie the Peoples Rage.</p>
+            <p n="1">I. <hi>It is a Parliament that will certainly conſiſt of the ſame Loyal Per<g ref="char:EOLhyphen"/>ſons, that againſt ſo much Oppoſition, <hi>A Reſiſtance, even to Blood,</hi> plac'd this Crown upon the Head of the Prince that wears it, and who, I am perſwaded, will never ſuffer an Hair of That Head to fall to the Ground.</hi>
+            </p>
+            <p n="2">II. <hi>It is a Parliament that will do His Majeſty more Service in this Con<g ref="char:EOLhyphen"/>juncture, than thoſe Military Men that have Deſerted him by what I ſee, ever deſign'd to do; and inſtead of his <hi>Standing Army,</hi> I hope he'l have Reaſon to make This his <hi>Standing Parliament.</hi>
+               </hi>
+            </p>
+            <p>The Firſt Propoſition I ſhall thus plainly prove: Thoſe Perſons that Adher'd to the Crown, and its unalterable Succeſſion, are men of the beſt Fortunes and Eſtates that their Counties can afford us, and who, 'tis known, by that <hi>Intereſt</hi> they had in them, Eſtabliſht the Throne; by this their <hi>Intereſt</hi> they will as certainly be elected again, and for ought I ſee, the P. of O. propoſes it as his <hi>Intereſt</hi> to have them choſen too; ſo that here is a <hi>Common Intereſt</hi> agen, in which we all agree, if People would without paſſion give themſelves up to un<g ref="char:EOLhyphen"/>derſtand it.</p>
+            <p>To <hi>theſe men</hi> this dreadful Declaration of the P. muſt be intirely ſubmitted, and he himſelf determin'd by it<g ref="char:punc">▪</g> Their <hi>Order'd</hi> and <hi>Re<g ref="char:EOLhyphen"/>ſolv'd</hi>
+               <pb n="3" facs="tcp:57782:2"/> will certainly be the <hi>Decretum Finale;</hi> and as it is the hig<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Court, from whence there is no <hi>Appeal,</hi> ſo has the Prince oblig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf by <hi>Appealing</hi> to it.</p>
+            <p>To this can only be Objected theſe two things:
+<list>
+                  <item>1. <hi>That the Prince's Army may hinder the Election of theſe Men.</hi>
+                  </item>
+                  <item>2. <hi>That he may influence their Debates when Elected.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>That it cannot, and will not do either of theſe, will appear not only probable, but plain; he has no Power to regulate Corporations, and muſt ruin the very Foundation of his Deſign if he pretends to it; 'tis a contradiction to what he declares, and a Deſign upon the Crown which he renounces, and which is his viſible Intereſt not to Attemp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> He knows too well the Temper of <hi>thoſe Men,</hi> whom only the com<g ref="char:EOLhyphen"/>mon Cauſe of Religion, has made his Adherents, to be no D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<g ref="char:punc">▪</g> of Crowns and Scepters; which like the <hi>King's Heart,</hi> are ſaid to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only in <hi>God's Hand,</hi> and who have aſſerted too much of a <hi>Divin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Right,</hi> to ſet up now for the <hi>Doctrin</hi> of <hi>Depoſing.</hi> He muſt need<g ref="char:punc">▪</g> know too, that the offering to exclude ſuch Men from being duly Elected, would raiſe the juſt Indignation not only of <hi>theſe Men,</hi> (upon whom ſome will ſay he has moſt depended) but of the whole King<g ref="char:EOLhyphen"/>dom, of which they make the greateſt part, and in all probability make a greater Defection in his Army, than his Cauſe has done in the King's.</p>
+            <p>In the next place, <hi>If Elected, he cannot influence their Debates.</hi> He has no <hi>Miniſters of State</hi> to make their <hi>Courts to the Houſe of Com<g ref="char:EOLhyphen"/>mons;</hi> and I am perſwaded is too <hi>thrifty</hi> to allow any <hi>Penſions</hi> to <hi>pur<g ref="char:EOLhyphen"/>chaſe their Votes.</hi> The Members that will be choſen, will be too <hi>Wealthy</hi> for a <hi>Bribe,</hi> and will no more <hi>Sell</hi> their <hi>King,</hi> than they would their <hi>Country;</hi> and in what concerns <hi>Succeſſion,</hi> and <hi>a Right Heir,</hi> have given ſuch proofs of their Sincerity, that as it is the moſt un<g ref="char:EOLhyphen"/>grateful Diſtruſt, where the Deſcent is owing, ſo to Contradict it, is to deny a Poſtulate, or a Piece of Demonſtration.</p>
+            <p>And ſince of <hi>theſe Men</hi> the Parliament muſt conſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, it's ea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e to prove, that His Majeſty, <hi>Their Anointed cannot be touch'd;</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h I could add, they would <hi>do his Prophets no harm.</hi> The <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tive has been Advanced by them, as ſome think, even to a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as themſelves find, to their own damage and Danger; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:57782:3"/> ſuch Members, his Sacred Perſon, as well as his juſt Rights, muſt meet with the greateſt Security.</p>
+            <p>The Second Propoſition is, <hi>That ſuch a Parliament in this very Jun<g ref="char:EOLhyphen"/>cture, will</hi> do <hi>the King more Service than any Army,</hi> or <hi>his</hi> own <hi>has</hi> done.</p>
+            <p>The Foreign Forces that were brought into the Kingdom were not ſo few, but what without ſuch a Defection might have ſhaken the Throne, I dare not ſay overturn'd it; I ſhall not inſiſt upon any Ex<g ref="char:EOLhyphen"/>cuſe or Juſtification of what ſome will call a <hi>Revolt from Allegiance,</hi> others only an <hi>Aſſerting of Religion;</hi> but take the matter as it ſtands, we'll ſuppoſe it once for Fact; That what for foreign Troops, and the Defection of his own, the King's Affairs in his Army are very decli<g ref="char:EOLhyphen"/>ning, and Himſelf unlikely to keep the Field: What is there poſſible, left to oppoſe the unlimited Demands of the Prince (ſhould he extend them to Extravagancy) but ſuch a Parliament, to which even a ſort of Conquerors ſeem to ſubmit? The Nation has ſuch an expe<g ref="char:EOLhyphen"/>ctancy from it, that it unanimouſly <hi>agrees</hi> to be guided by it; and ſhould it <hi>diſagree</hi> with this ſo <hi>Powerful</hi> Prince, (as certainly it will, if he deſigns the leaſt Alt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation of Government, or any Injury to the Crown, much more to the Perſon of the King) its Reſolutions would ſoon make him find a Force within thoſe Walls, to tranſcend even that he has in the Field, and even thoſe he has there as ſoon to forſake him. This is no piec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eculation in Politicks, but what the event will as certainly prove to be Matter of Fact: if <hi>Futurity</hi> can have any relation to what is <hi>paſt?</hi> if we'll only believe with our Ears, what our Eyes have ſeen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if the Relating Preſidents be any probable Proof of a things poſſibility? I can give ſome inſtances, where <hi>Parliaments</hi> have helpt to oppoſe even the Violence of <hi>Arms;</hi> which tho' they uſe to <hi>ſilence Laws,</hi> ſuch Laws at any time may <hi>here</hi> turn to <hi>flight an Army of the Aliens.</hi>
+            </p>
+            <p>It was a Parliaments pure Intereſt with the People, that had Power enough upon the Reſtoration of the late King, to <hi>Disband</hi> all the Forces then, tho' much more formidable than what are now a<g ref="char:EOLhyphen"/>foot, and under ſuch an Engagement, that their Oaths as well as their Intereſt, had oblig'd all the Officers of that Army, never to for<g ref="char:EOLhyphen"/>ſake one another, or ſuffer themſelves to be Disbanded; and that
+<pb n="5" facs="tcp:57782:3"/> when Religion was as much the cauſe, and they had <hi>Sworn</hi> to fight the <hi>Battels of the Lord,</hi> whereas the Princes Promiſes here ſuperſede the pains of ſuch a proof, declare he'll never bring it to that Extre<g ref="char:EOLhyphen"/>mitv, but ſend away of his own accord, all his <hi>Forreign Troops</hi> aſſoon as this Parliament ſhall be call'd; and I am ſure 'tis his Intereſt to be as good as his Word.</p>
+            <p>For another Inſtance, That Votes of Parliament are ſometimes as good as Canon proof: and it is that more modern Experience we had of their efficacy in Influencing the People upon <hi>Monmouth</hi>'s Rebellion; I am ſure His Majeſty found no little benefit then from their Sitting, their Attaindure, and ſetting ſo much upon his Head, did not a lit<g ref="char:EOLhyphen"/>tle help to bring it <hi>in,</hi> and kept numbers <hi>out,</hi> that otherwiſe would have made his Army much more formidable; and tho' the King's Forces had then the <hi>Good Luck</hi> to Defeat them, yet I crave leave to obſerve, that the <hi>Army</hi> Conquer'd <hi>by chance,</hi> but the <hi>Parlia<g ref="char:EOLhyphen"/>ment <hi>by Deliberation.</hi>
+               </hi>
+            </p>
+            <p>To this Parliament, (and what ſhould endear it the more to all Men) to the very ſame Perſons that compos'd it, (who for the moſt part will certainly be return'd) are all Matters on all ſides agreed to be refer'd; the Prince <hi>Declares</hi> for it, the Lords <hi>Petition</hi> for it, and the <hi>King</hi> as <hi>paſſionately deſires</hi> for it? and what then, for God ſake, ſhould hinder the <hi>calling</hi> for it; if it be anſwer'd, that the <hi>Evil Coun<g ref="char:EOLhyphen"/>ſellors,</hi> whom the Prince ſo Criminates, only oppoſe its Sitting: I will ſatisfie them, it is not their Intereſt ſo to do, they being already made ſo Obnoxious, (if they have not made themſelves ſo) will by oppoſing this the general deſire, only incenſe the People more, make them to be believ'd <hi>Guilty</hi> of <hi>all</hi> thoſe Crimes for which they ſtand accus'd, <hi>ſome</hi> of which, perhaps, they are <hi>Innocent</hi> of, and will have a fair opportunity, when it is aſſembled, to clear themſelves from I have obſerv'd upon ſeveral of our Revolutions, that nothing has made our Miniſters of State more odious, than their being thought guilty of putting off Parliaments; that occaſion'd the Act in <hi>Ed.</hi> 3. for their Sitting <hi>once a year at leaſt;</hi> that the <hi>Triennial</hi> in <hi>Car.</hi> 1. that at laſt the unhappy, and <hi>Perpetual</hi> one in the ſame Reign, that was made Matter of Impeachment in <hi>Rich.</hi> 2d's Reign; that was one of the Articles that coſt <hi>Strafford</hi> his Head in <hi>Car.</hi> 1, that was the Cla<g ref="char:EOLhyphen"/>mour
+<pb n="6" facs="tcp:57782:4"/> of all the Diſcontented Party in <hi>Car.</hi> 2. And ſince its Sitting now is ſo generally deſir'd, and the King's Safety, and the Peoples Peace ſeem to depend upon it; the Nations reſentment will certainly fall more heavy upon their Heads that are thought to have oppos'd it, and aggravate thoſe Crimes, of which they only may be mi<g ref="char:EOLhyphen"/>ſtruſted; inſomuch, that I ſeriouſly profeſs, were I <hi>a Publick Mini<g ref="char:EOLhyphen"/>ſter,</hi> that was certainly deſign'd for a <hi>Publick Sacrifice;</hi> for the King's ſake, for the Peoples ſatisfaction, and for the only Expedient to di<g ref="char:EOLhyphen"/>vert ſomewhat of that Odium I lay under; I would zealouſly be concern'd for its <hi>Sitting,</hi> tho' I were ſure to ſuffer when it <hi>Sate.</hi>
+            </p>
+            <p>Neither can I ſee what His Majeſty can reaſonably fear at preſent from ſuch a <hi>Loyal</hi> Aſſembly's being <hi>legally</hi> conven'd, they will cer<g ref="char:EOLhyphen"/>tainly (and of which I am in my Conſcience perſwaded) reſolve to retain to themſelves all the <hi>Liberty</hi> of <hi>Debate,</hi> ſince they'll be now more than ever diſingaged from any <hi>Merit</hi> they may expect from Compliance and <hi>Obedience;</hi> they'll be ſo far from being Influenc'd by the Prince of <hi>O.</hi> or his Army from being <hi>free,</hi> that the firſt thing they'll conſider, will be the Eſtabliſhing of the King's Throne, which no confidence can deny, but that the Perſons who will compoſe it, have always been ready to ſupport; they'll confirm, that Eſtabliſh'd Religion, which the King has ſo often promis'd to maintain: And to come to the only two tender Points, that ſome People will think can touch the <hi>King,</hi> or the <hi>Court;</hi> or what has occaſion'd much (perhaps) this Attempt of the <hi>Prince</hi> of <hi>O.</hi> and his <hi>States;</hi>
+            </p>
+            <p>
+               <hi>They'll be the best Arbitrators in the Birth of our Prince of</hi> Wales. <hi>And the greateſt Oppoſers of the Growth of the King of</hi> France.</p>
+            <p>In both theſe Points, with all ſubmiſſion, I did ever conceive, and ſhall now as humbly ſhew, It is His Majeſty's Intereſt to admit them to be Judges.</p>
+            <p>Firſt, he cannot have better <hi>Judges of a Royal Diſcent, and a right Line,</hi> than thoſe that ſo Loyally maintain'd his <hi>own</hi> againſt ſo much Oppoſition, and who muſt be as much engag'd to maintain it in his <hi>Lawful Iſſue,</hi> as ever they did in his <hi>own Perſon and Blood;</hi> the <hi>perpe<g ref="char:EOLhyphen"/>tuating</hi> of this <hi>Line,</hi> and the <hi>Derivation of this Blood</hi> depends in all probability, upon <hi>an Heir Male,</hi> and a <hi>Prince of</hi> Wal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; of whoſe Birth, when once they are <hi>ſatisfy'd,</hi> they'll certainly be the beſt of
+<pb n="7" facs="tcp:57782:4"/> Aſſerters. To this very Parliament the Prince of <hi>O.</hi> has fairly, even in this very Point Appeal'd, and ſo by his own Act concluded him<g ref="char:EOLhyphen"/>ſelf. So that if this Legitimacy which he Queſtions, ſhould by them be <hi>affirm'd,</hi> he muſt and will acquieſce; and His Majeſty can deſire nothing more, than ſuch an <hi>affirmation;</hi> now there are probable rea<g ref="char:EOLhyphen"/>ſons to induce us to believe, that this Parliament may <hi>affirm</hi> this Son to be <hi>his,</hi> which the King, with a great many Witneſſes has aver'd to be <hi>His own:</hi> No Man can Condemn the Prince of <hi>O.</hi> for <hi>doubting</hi> it, ſince it concerns himſelf, and eſpecially his Conſort, ſo near; but it may be obſerv'd, That when his Declaration was penn'd, (as him<g ref="char:EOLhyphen"/>ſelf there ſays) tho' <hi>many People doubted of the Queen's Bigneſs, and the Birth of the Child, there was not any one thing done to <hi>ſatisfie</hi> them, or to put an end to their Doubts;</hi> ſo that we cannot tell how far the Prince now may be <hi>ſatisfy'd</hi> himſelf, or a Parliament think it <hi>ſatisfa<g ref="char:EOLhyphen"/>ctory,</hi> ſince ſo much has been done of late in the <hi>Council Chamber,</hi> as may perhaps give the <hi>great Council</hi> of the <hi>Nation</hi> much of <hi>ſatisfacti<g ref="char:EOLhyphen"/>on;</hi> and they that ſtood up ſo ſtoutly for the Succeſſion of the <hi>Duke of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ork,</hi> may not be ſo ſoon brought to diſinherit <hi>a Prince of</hi> Wales.</p>
+            <p>Secondly, what concerns the <hi>Growth</hi> of <hi>France,</hi> I always thought muſt very much affect <hi>England,</hi> and none ſure then ſo proper to <hi>Judge</hi> of the Nations ſafety, as thoſe who are ſent to be her Peoples Repreſentatives: 'Tis certain, or at leaſt very probable, that the ſame Juſtice by which he detains <hi>Lorrain,</hi> and has ſeiz'd the <hi>Palati<g ref="char:EOLhyphen"/>nate;</hi> the ſame power by which he defies all the Electoral Prin<g ref="char:EOLhyphen"/>ces, and all the Forces of the Emperor, will one time warrant him to claim <hi>Holland,</hi> as one of the Appendancies to his <hi>Pays Conqui de Flandre,</hi> and the <hi>Chamber</hi> of <hi>Metz</hi> can alway <hi>give</hi> even faſter than he <hi>Conquers;</hi> and then perhaps it may be too late for <hi>England</hi> to look about for her ſelf: and 'tis plain, 'tis for this reaſon the <hi>Dutch,</hi> ('tho I believe truly in the firſt place for their own Preſervation,) would now engage the <hi>Engliſh</hi> into a War with the <hi>French;</hi> and tho' that I think too would have been more honeſtly done, if it could have been compaſt without force of Arms, and to be wiſht the P. might have had no need of his; 'Tis granted on all ſides, that the King is the ſole Arbitrator of <hi>War</hi> and <hi>Peace:</hi> But yet it has been as conſtant a Practiſe in Parliament, to move the King to the <hi>one,</hi> and encline him
+<pb n="8" facs="tcp:57782:5"/> to the <hi>other,</hi> and to offer one thing more, it is known, that <hi>their Growth of</hi> France, and <hi>our Growth of Popery,</hi> has for above this Ten Years been ſo beaten into peoples Heads to be the ſame thing, that nothing almoſt but a <hi>Breach</hi> with that <hi>Crown,</hi> can make them think well of our <hi>Court,</hi> and I think that has <hi>broke</hi> with us; and made al<g ref="char:EOLhyphen"/>ready a <hi>War,</hi> if we are any thing concern'd in a late famous <hi>Peace;</hi> and 'tis but with an ill Grace that this <hi>French Declaration</hi> reminds the <hi>Dutch</hi> of the Treaty of <hi>Nimmeguen;</hi> which by their Invading the <hi>Palatinate,</hi> they firſt took care to violate: I am not infatuated with thoſe Fooliſh Fears that affect the Vulgar; no more afraid at preſent of the <hi>French</hi> Army here, than the <hi>Spaniſh</hi> Pilgrims; but will not promiſe for futurity, ſhould their <hi>Growth</hi> meet with no oppoſition, and (unleſs it be Religion) I could never apprehend what ſhould encline our Mi<g ref="char:EOLhyphen"/>niſters ſo much to <hi>that</hi> Government, ſince <hi>that</hi> very thing, has crea<g ref="char:EOLhyphen"/>ted ſo many Diſturbances in our <hi>own,</hi> much leſs ſhould it influence the King, or the Court at this time, ſince the only ſeaſon, to reco<g ref="char:EOLhyphen"/>ver ſome of that Kingdom, of which His Majeſty's Anceſtors were once poſſeſs'd in another <hi>Field,</hi> than that of <hi>a Coat of Arms.</hi>
+            </p>
+            <p>Theſe I think are the chief things that will come before this Parlia<g ref="char:EOLhyphen"/>ment, of which they'll bethe moſt Competent <hi>Judges,</hi> even to the <hi>Compoſing</hi> of the Diſtractions between <hi>King</hi> and <hi>People;</hi> and this Par<g ref="char:EOLhyphen"/>liament will be more conveniently now call'd than ever, ſince no<g ref="char:EOLhyphen"/>thing leſs than that Convention can <hi>Compoſe</hi> them; and therefore thoſe rude <hi>Reflections</hi> in a <hi>Late</hi> imprudent paper (that were ſo <hi>unchari<g ref="char:EOLhyphen"/>tably</hi> made upon the Worthy Lords that ſo <hi>conſcientiouſly</hi> Petition'd for it) were very <hi>unſeaſonably,</hi> very <hi>unadviſedly</hi> ſet forth; <hi>eſpecially</hi> ſince it appear'd, His Majeſty was pleaſed to receive it ſo <hi>Graciouſly,</hi> as to tell them, he <hi>paſſionately</hi> deſir'd it; and ſince <hi>all</hi> ſides, after ſo much Alteration ſeem now to agree in <hi>this one thing neceſſary,</hi> may it anſwer too the expectation of <hi>all, <hi>may their moderation be known to</hi> all <hi>Men,</hi>
+               </hi> may People be ſurpris'd to ſee their prudent Adminiſtrati<g ref="char:EOLhyphen"/>ons, and that this Revolution alone is that which will not run into Extreams: Laſtly,</p>
+            <closer>May the King's Enemies be cloathed with ſhame, but upon his Head let his Crown flouriſh.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> 1688.</p>
+            <pb facs="tcp:57782:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
